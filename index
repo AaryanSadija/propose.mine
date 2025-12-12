@@ -89,7 +89,7 @@
         spread: 800,
         origin: { y: 0.6 }
       });
-      alert('Yay! You said Yes! 💖 You made me my life');
+      alert('Yay! You said Yes! 💖 You belongs to me now✨');
     }
   </script>
 
